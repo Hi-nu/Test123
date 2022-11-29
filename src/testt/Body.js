@@ -1,7 +1,8 @@
 const Body = () => {
 
     return (
-        <div>bb</div>
+        <div style={{background:'red', width: '50px', height: '50px'}}>
+        </div>
     )
 
 }
